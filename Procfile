@@ -1,0 +1,1 @@
+web: gonicorn Npower.wsgi
